@@ -7,7 +7,7 @@ Here's an example of Bionified text to demonstrate the speed!
 ![image](https://user-images.githubusercontent.com/84621641/232249333-d2dd5db8-7e82-4a5c-ab76-7d9a45094b3b.png)
 
  
-Version 1 Current : Only able to bold first  characters but future version can able to bold with some advanced tech-ticks.
+Version 1 Current : Able to bold first 2 characters but future version can able to bold with some advanced tech-ticks. Also current version might face some bugs like bold all words but it will be solved in further versions.
 
 Version 2 which is under development
 Algo. 
